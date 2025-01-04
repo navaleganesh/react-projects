@@ -1,0 +1,21 @@
+++++ Installation React +++++
+
+npx create-react-app 01basicreact
+
+++++ Run +++++
+npm run start
+
+++++ Build +++++
+npm run build
+
+
+
+++++ Installation React using Vite +++++
+
+npx create-react-app 01basicreact
+
+++++ Run +++++
+npm run dev
+
+++++ Build +++++
+npm run build
