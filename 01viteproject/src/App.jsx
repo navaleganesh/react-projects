@@ -1,7 +1,11 @@
+import Chai from "./chai"
 function App() {
-  
+
   return (
-    <h1>Hello World with vite</h1 >
+    <>
+      <Chai />
+      <h1>Hello World</h1>
+    </>
   )
 }
 
